@@ -1516,6 +1516,21 @@ JAVA SCRIPT
 
 
 JavaScript is a programming language initially designed to interact with elements of web pages. Within web browsers, JavaScript consists of three main parts:
+Java script is a cross-platform, object-oriented scripting language that makes web pages interactive.
+When a javascript  is placed inside a web page, the browser loads the page & a built-in interpreter reads the javascript code & executes
+Javascript is case-sensitive and dynamic typing. loosely typed i.e.variable data types are not declared JavaScript is used in web pages for
+              –Validating data.
+              –Putting dynamic content into an HTML page.
+              –To make them interactive
+
+
+Inline scripting : >script ></script>
+
+The external scripting will be written in another file
+External scripting : 
+<script src =”myjs.js”><script 
+
+
 
 ECMAScript provides the core functionality.
 The Document Object Model (DOM) provides interfaces for interacting with elements on web pages
