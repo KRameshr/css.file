@@ -990,7 +990,7 @@ The word <bdo dir="rtl">Hello</bdo> is "Hello" spelled backwards.
 
 
 
-
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 
 CSS  in html
@@ -1510,7 +1510,7 @@ To fix this issue, add multiple versions of the same image at different sizes, a
       srcset=""/>
     </picture>
     
-
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 JAVA SCRIPT
 
@@ -1814,7 +1814,7 @@ function recurse() {
 use recursive functions to break down a big problem into smaller ones.
  recursive functions  seen in data structures like binary trees and graphs and algorithms such as binary search and quicksort.
 
-
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Object Methods
  An object is a collection of key/value pairs or properties. 
@@ -2577,6 +2577,88 @@ Dynamic  webpage
 
 
 Object.assign(user, permissions1, permissions2)
+
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+ working of internet 
+
+
+Packet: A small unit of data that is transmitted over the internet.
+Router: A device that directs packets of data between different networks.
+IP Address: A unique identifier assigned to each device on a network, used to route data to the correct destination.
+Domain Name: A human-readable name that is used to identify a website, such as google.com.
+DNS: The Domain Name System is responsible for translating domain names into IP addresses.
+HTTP: The Hypertext Transfer Protocol is used to transfer data between a client (such as a web browser) and a server (such as a website).
+HTTPS: An encrypted version of HTTP that is used to provide secure communication between a client and server.
+SSL/TLS: The Secure Sockets Layer and Transport Layer Security protocols are used to provide secure communication over the internet.
+
+You’ll also need to be familiar with the various protocols and standards that are commonly used with TCP/IP, such as HTTP, FTP (File Transfer Protocol), and SMTP (Simple Mail Transfer Protocol).
+
+
+Protocols play a critical role in enabling communication and data exchange over the internet. A protocol is a set of rules and standards that define how information is exchanged between devices and systems.
+
+There are many different protocols used in internet communication, including the Internet Protocol (IP), the Transmission Control Protocol (TCP), the User Datagram Protocol (UDP), the Domain Name System (DNS), and many others.
+
+Ports: Ports are used to identify the application
+Sockets: Sockets are used to establish connections between devices and transfer data between applications.
+Connections: A connection is established between two sockets when two devices want to communicate with each othe.
+Data transfer: Once a connection is established, data can be transferred between the applications running on each device. Data is typically transmitted in segments, with each segment containing a sequence number and other metadata to ensure reliable delivery.
+
+
+
+When using SSL/TLS to secure internet communication.
+Certificates: SSL/TLS certificates are used to establish trust between the client and server.
+Handshake: During the SSL/TLS handshake process, the client and server exchange information to negotiate the encryption algorithm and other parameters for the secure connection.
+
+Encryption: Once the secure connection is established, data is encrypted using the agreed-upon algorithm and can be transmitted securely between the client and server.
+
+https://www.imgix.com/ 
+https://www.vpsbenchmarks.com/trials 
+
+
+
+DNS records
+ Is https://mxtoolbox.com/ 
+
+
+Named character references
+
+https://html.spec.whatwg.org/multipage/named-characters.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
