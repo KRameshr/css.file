@@ -578,14 +578,6 @@ Eve
 Jackson
 94
 
-
-
-
-
-
-
-
-
 To avoid having double borders like in the example above, set the CSS border-collapse property to collapse.
 Table Borders
 Border:1px solid #96D4D4;
@@ -617,7 +609,6 @@ To add a caption to a table, use the <caption> tag:
     <th colspan="2">Name</th>
     <th>Age</th>
   </tr>
-
 
 
 
